@@ -1,0 +1,47 @@
+body {
+  font-weight: 400;
+  color: #222;
+  font-family: fantasy, sans-serif;
+}
+
+header h2 {
+  font-size: 1.2em;
+  font-weight: normal;
+  line-height: 0.7;
+}
+
+header h1 {
+  font-size: 2.5em;
+  font-family: "Trebuchet MS";
+}
+
+p {
+  line-height: 1.5;
+}
+
+header {
+  text-align: center;
+}
+
+hr {
+  margin-top: 30px;
+  border-width: 0;
+  border-top: 2px solid #222;
+  width: 150px;
+}
+
+section {
+  margin: 30px;
+}
+
+.container{
+  max-width: 800px;
+  margin: 60px auto;
+}
+
+.social a {
+  font-size: 25px;
+  padding: 0px 8px;
+  text-decoration: none;
+  color: #c93a3a;
+}
